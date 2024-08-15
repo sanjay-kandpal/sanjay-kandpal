@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kandpal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<div style="width:400;" align="right"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-kandpal&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-kandpal" /> </p>
 
 - 🔭 I’m currently working on (under construction)[portfolio](https://sanjay-kandpal.github.io/portfolio/)
