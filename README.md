@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on (under construction)[portfolio](https://sanjay-kandpal.github.io/portfolio/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 
 
 - 👨‍💻 All of my projects are available at [https://sanjay-kandpal.github.io/portfolio/](https://sanjay-kandpal.github.io/portfolio/)
 
