@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-kandpal&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-kandpal" /> </p>
 
-- 🔭 I’m currently working on (under construction)[portfolio](https://sanjay-kandpal.github.io/portfolio/)
+- 🔭 I’m currently working on Mobile App(React Native).
 
 - 🌱 
 
