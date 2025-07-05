@@ -8,7 +8,7 @@
 
 - All my experience available at [https://toowitykandpal.hashnode.dev/](Blogs)🌱 
 
-- 👨‍💻 All of my projects are available at [https://sanjay-kandpal.github.io/portfolio/](Portfolio)
+- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge)](https://sanjay-kandpal.github.io/portfolio/)
 
 - 💬 Ask me about **MERN**
 
