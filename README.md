@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on React+Flask Projects.
 
-- All my experience available at [https://toowitykandpal.hashnode.dev/]🌱 
+- All my experience available at [https://toowitykandpal.hashnode.dev/](Blogs)🌱 
 
-- 👨‍💻 All of my projects are available at [https://sanjay-kandpal.github.io/portfolio/](https://sanjay-kandpal.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://sanjay-kandpal.github.io/portfolio/](Portfolio)
 
 - 💬 Ask me about **MERN**
 
