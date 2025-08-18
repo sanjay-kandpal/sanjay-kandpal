@@ -8,7 +8,8 @@
 
 - All my experience available at [![Blogs](https://img.shields.io/badge/Blogs-Click_Here-blue?style=for-the-badge)](https://toowitykandpal.hashnode.dev/)🌱 
 
-- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge)]([https://sanjay-kandpal.github.io/portfolio/](https://new-portfolio-pied-alpha.vercel.app/))
+- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge)](https://new-portfolio-pied-alpha.vercel.app/)
+
 
 - 💬 Ask me about **MERN**
 
